@@ -1,0 +1,20 @@
+.snakes, .turtles, .bugs {
+  display: none;
+}
+
+img {
+  max-width: 350px;
+  max-height: 200px;
+}
+
+.snakes {
+  background-color: #ebfaeb;
+}
+
+.turtles {
+  background-color: #e5e5ff;
+}
+
+.bugs {
+  background-color: #ffe5f0;
+}
